@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VetGuidev0.2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="configuracion">Configuración</string>
+    <string name="login">Log In</string>
+    <string name="o">ó</string>
+    <string name="ingresa">Ingresa con </string>
+    <string name="title_activity_principal_cliente">Principal</string>
+    <string name="title_activity_registro">Registro</string>
+    <string name="title_activity_registro_veterinaria">RegistroVeterinaria</string>
+</resources>
